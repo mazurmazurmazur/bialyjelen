@@ -81,32 +81,32 @@ p {
 
 h1 {
   color: #484a46;
-  font: 700 2.5rem/3rem "Montserrat", sans-serif;
+  font: 700 2.5rem/3rem "Lato", sans-serif;
 }
 
 h2 {
   color: #484a46;
-  font: 700 1.75rem/2.125rem "Montserrat", sans-serif;
+  font: 700 1.75rem/2.125rem "Lato", sans-serif;
 }
 
 h3 {
   color: #484a46;
-  font: 700 1.375rem/1.75rem "Montserrat", sans-serif;
+  font: 700 1.375rem/1.75rem "Lato", sans-serif;
 }
 
 h4 {
   color: #3a7423;
-  font: 500 1.25rem/1.625rem "Montserrat", sans-serif;
+  font: 500 1.25rem/1.625rem "Lato", sans-serif;
 }
 
 h5 {
   color: #484a46;
-  font: 700 1.125rem/1.5rem "Montserrat", sans-serif;
+  font: 700 1.125rem/1.5rem "Lato", sans-serif;
 }
 
 h6 {
   color: #484a46;
-  font: 700 1rem/1.375rem "Montserrat", sans-serif;
+  font: 700 1rem/1.375rem "Lato", sans-serif;
 }
 
 a {
@@ -133,7 +133,7 @@ a.white,
 }
 
 .testimonial-author {
-  font: 700 1rem/1.375rem "Montserrat", sans-serif;
+  font: 700 1rem/1.375rem "Lato", sans-serif;
 }
 
 strong {
@@ -142,7 +142,7 @@ strong {
 
 .section-title {
   color: #155826;
-  font: 500 1.2rem "Montserrat", sans-serif;
+  font: 500 1.2rem "Lato", sans-serif;
 }
 
 .section-title-center {
@@ -156,7 +156,7 @@ strong {
   border-radius: 0.25rem;
   background-color: #155826;
   color: #fff;
-  font: 700 0.75rem/0 "Montserrat", sans-serif;
+  font: 700 0.75rem/0 "Lato", sans-serif;
   text-decoration: none;
   transition: all 0.2s;
 }
@@ -174,7 +174,7 @@ strong {
   border-radius: 0.25rem;
   background-color: #155826;
   color: #fff;
-  font: 700 0.75rem/0 "Montserrat", sans-serif;
+  font: 700 0.75rem/0 "Lato", sans-serif;
   text-decoration: none;
   transition: all 0.2s;
 }
@@ -192,7 +192,7 @@ strong {
   border-radius: 0.25rem;
   background-color: transparent;
   color: #000;
-  font: 700 0.75rem/0 "Montserrat", sans-serif;
+  font: 700 0.75rem/0 "Lato", sans-serif;
   text-decoration: none;
   transition: all 0.2s;
 }
@@ -210,7 +210,7 @@ strong {
   border-radius: 0.25rem;
   background-color: transparent;
   color: #000;
-  font: 700 0.75rem/0 "Montserrat", sans-serif;
+  font: 700 0.75rem/0 "Lato", sans-serif;
   text-decoration: none;
   transition: all 0.2s;
 }
@@ -228,7 +228,7 @@ strong {
   border-radius: 0.25rem;
   background-color: transparent;
   color: #000;
-  font: 700 0.75rem/0 "Montserrat", sans-serif;
+  font: 700 0.75rem/0 "Lato", sans-serif;
   text-decoration: none;
   transition: all 0.2s;
 }
@@ -389,7 +389,7 @@ input[type="checkbox"] {
   border-radius: 0.25rem;
   background-color: #155826;
   color: #fff;
-  font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
+  font: 700 0.75rem/1.75rem "Lato", sans-serif;
   cursor: pointer;
   transition: all 0.2s;
 }
@@ -692,7 +692,7 @@ input[type="checkbox"] {
 .navbar-custom .navbar-brand.logo-text {
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
-  font: 700 2.25rem/1.5rem "Montserrat", sans-serif;
+  font: 700 2.25rem/1.5rem "Lato", sans-serif;
   color: #fff;
   text-decoration: none;
 }
@@ -999,7 +999,7 @@ input[type="checkbox"] {
 .cards-2 .price {
   margin-bottom: 0.25rem;
   color: #484a46;
-  font: 700 1rem/1.5rem "Montserrat", sans-serif;
+  font: 700 1rem/1.5rem "Lato", sans-serif;
   text-align: center;
 }
 
@@ -1060,7 +1060,7 @@ input[type="checkbox"] {
   border-radius: 50%;
   background-color: #155826;
   color: #fff;
-  font: 700 1rem/2.125rem "Montserrat", sans-serif;
+  font: 700 1rem/2.125rem "Lato", sans-serif;
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
@@ -1084,7 +1084,7 @@ input[type="checkbox"] {
   margin-top: 0.125rem;
   margin-bottom: 0.25rem;
   color: #484a46;
-  font: 700 1.25rem/1.75rem "Montserrat", sans-serif;
+  font: 700 1.25rem/1.75rem "Lato", sans-serif;
   vertical-align: middle;
   cursor: pointer;
   transition: all 0.2s ease;
@@ -1126,7 +1126,7 @@ input[type="checkbox"] {
   border: none;
   border-radius: 0.25rem;
   color: #c1cace;
-  font: 700 1.375rem/1.375rem "Montserrat", sans-serif;
+  font: 700 1.375rem/1.375rem "Lato", sans-serif;
   text-decoration: none;
   transition: all 0.2s ease;
 }
@@ -1432,7 +1432,7 @@ input[type="checkbox"] {
   border-radius: 0.25rem;
   background-color: #f1f4f7;
   color: #7b7e85;
-  font: 700 0.75rem/1.25rem "Montserrat", sans-serif;
+  font: 700 0.75rem/1.25rem "Lato", sans-serif;
   cursor: pointer;
   transition: all 0.2s ease;
 }
@@ -1498,7 +1498,7 @@ input[type="checkbox"] {
   right: 0;
   left: 0;
   color: #fff;
-  font: 700 1.125rem/1.625rem "Montserrat", sans-serif;
+  font: 700 1.125rem/1.625rem "Lato", sans-serif;
 }
 
 /**********************************/
@@ -1625,7 +1625,7 @@ input[type="checkbox"] {
 .basic-2 .team-member .job-title {
   margin-bottom: 0.75rem;
   color: #484a46;
-  font: 700 1rem/1.375rem "Montserrat", sans-serif;
+  font: 700 1rem/1.375rem "Lato", sans-serif;
 }
 
 .basic-2 .fa-stack {
@@ -1713,7 +1713,7 @@ input[type="checkbox"] {
   display: inline-block;
   margin-bottom: 0.125rem;
   color: #155826;
-  font: 700 2.875rem/3.25rem "Montserrat", sans-serif;
+  font: 700 2.875rem/3.25rem "Lato", sans-serif;
   vertical-align: middle;
 }
 
@@ -2018,7 +2018,7 @@ a:hover.back-to-top {
   }
 
   .header h1 {
-    font: 700 3.5rem/4rem "Montserrat", sans-serif;
+    font: 700 3.5rem/4rem "Lato", sans-serif;
   }
   /* end of header */
 
