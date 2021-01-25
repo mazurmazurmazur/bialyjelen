@@ -38,7 +38,7 @@ Colors:
 - Backgrounds navbar, footer - dark gray #113448
 - Buttons, bullets, icons - green #155826
 - Headings text - black #484a46
-- Body text - gray #787976
+- Body text - gray #000
 - Body text - light gray #dfe5ec
 ******************************************/
 
@@ -53,7 +53,7 @@ html {
 
 body,
 p {
-  color: #787976;
+  color: #000;
   font: 400 1rem "Open Sans", sans-serif;
   text-align: center; /*justified*/
 }
@@ -110,12 +110,12 @@ h6 {
 }
 
 a {
-  color: #787976;
+  color: #000;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #787976;
+  color: #000;
   text-decoration: underline;
 }
 
@@ -188,17 +188,17 @@ strong {
 .btn-outline-reg {
   display: inline-block;
   padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
-  border: 0.125rem solid #787976;
+  border: 0.125rem solid #000;
   border-radius: 0.25rem;
   background-color: transparent;
-  color: #787976;
+  color: #000;
   font: 700 0.75rem/0 "Montserrat", sans-serif;
   text-decoration: none;
   transition: all 0.2s;
 }
 
 .btn-outline-reg:hover {
-  background-color: #787976;
+  background-color: #000;
   color: #fff;
   text-decoration: none;
 }
@@ -206,17 +206,17 @@ strong {
 .btn-outline-lg {
   display: inline-block;
   padding: 1.375rem 2.125rem 1.375rem 2.125rem;
-  border: 0.125rem solid #787976;
+  border: 0.125rem solid #000;
   border-radius: 0.25rem;
   background-color: transparent;
-  color: #787976;
+  color: #000;
   font: 700 0.75rem/0 "Montserrat", sans-serif;
   text-decoration: none;
   transition: all 0.2s;
 }
 
 .btn-outline-lg:hover {
-  background-color: #787976;
+  background-color: #000;
   color: #fff;
   text-decoration: none;
 }
@@ -224,17 +224,17 @@ strong {
 .btn-outline-sm {
   display: inline-block;
   padding: 1rem 1.625rem 0.9375rem 1.625rem;
-  border: 0.125rem solid #787976;
+  border: 0.125rem solid #000;
   border-radius: 0.25rem;
   background-color: transparent;
-  color: #787976;
+  color: #000;
   font: 700 0.75rem/0 "Montserrat", sans-serif;
   text-decoration: none;
   transition: all 0.2s;
 }
 
 .btn-outline-sm:hover {
-  background-color: #787976;
+  background-color: #000;
   color: #fff;
   text-decoration: none;
 }
@@ -256,7 +256,7 @@ strong {
   position: absolute;
   top: 0.8125rem;
   left: 1.375rem;
-  color: #787976;
+  color: #000;
   opacity: 1;
   font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
   cursor: text;
@@ -291,7 +291,7 @@ strong {
   border: 1px solid #dadada;
   border-radius: 0.25rem;
   background-color: #fff;
-  color: #787976;
+  color: #000;
   font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
   transition: all 0.2s;
   -webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
@@ -346,7 +346,7 @@ select::-ms-expand {
   border: 1px solid #dadada;
   border-radius: 0.25rem;
   background-color: #fff;
-  color: #787976;
+  color: #000;
   font: 400 1rem/1.5625rem "Open Sans", sans-serif;
   transition: all 0.2s;
 }
@@ -413,7 +413,7 @@ input[type="checkbox"] {
 }
 
 .help-block.with-errors .list-unstyled {
-  color: #787976;
+  color: #000;
   font-size: 0.75rem;
   line-height: 1.125rem;
   text-align: center; /*justified*/
