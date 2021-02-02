@@ -55,7 +55,7 @@ body,
 p {
   color: #000;
   font: 400 1rem "Open Sans", sans-serif;
-  text-align: center; /*justified*/
+  text-align: justify; /*justified*/
 }
 
 .p-large {
@@ -416,7 +416,7 @@ input[type="checkbox"] {
   color: #000;
   font-size: 0.75rem;
   line-height: 1.125rem;
-  text-align: center; /*justified*/
+  text-align: justify; /*justified*/
 }
 
 .help-block.with-errors ul {
@@ -908,7 +908,7 @@ input[type="checkbox"] {
   margin-bottom: 1rem;
   margin-left: auto;
   line-height: 6rem;
-  text-align: center; /*justified*/
+  text-align: justify; /*justified*/
 }
 
 .cards-1 .fa-stack .hexagon {
@@ -979,7 +979,7 @@ input[type="checkbox"] {
 
 .cards-2 p {
   color: #000;
-  text-align: center; /*justified*/
+  text-align: justify; /*justified*/
 }
 
 .cards-2 h3 {
@@ -1407,8 +1407,7 @@ input[type="checkbox"] {
 /*     12. Projects     */
 /************************/
 .filter {
-  padding-top: 6.5rem;
-  padding-bottom: 7rem;
+  padding-bottom: 2.5rem;
 }
 
 .filter .section-title {
@@ -1516,7 +1515,7 @@ input[type="checkbox"] {
   padding: 1.5625rem;
   border-radius: 0.25rem;
   background: #fff;
-  text-align: center; /*justified*/
+  text-align: justify; /*justified*/
 }
 
 .lightbox-basic img {
@@ -2089,7 +2088,7 @@ a:hover.back-to-top {
 
   /* About */
   .counter #counter {
-    text-align: center; /*justified*/
+    text-align: justify; /*justified*/
   }
 
   .counter #counter .cell {
@@ -2574,4 +2573,9 @@ a:hover.back-to-top {
   width: 10rem;
   display: block;
   margin: 1rem auto 1rem auto;
+}
+
+.separator {
+  width: 50%;
+  margin: 4.5rem auto 4.5rem auto;
 }
