@@ -1218,6 +1218,11 @@ input[type="checkbox"] {
   margin-bottom: 1.75rem;
 }
 
+.area-text {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
 .tabs .area-2 {
   height: 35vw;
 }
@@ -2050,6 +2055,10 @@ a:hover.back-to-top {
 
   .tabs #tab-2 .list-unstyled.first {
     margin-right: 2rem;
+  }
+
+  .area-text {
+    padding: 0;
   }
   /* end of details 2 */
 
